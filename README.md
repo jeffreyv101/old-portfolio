@@ -1,4 +1,8 @@
-# Dev Portfolio
+# Jeffreyv101 Old Portfolio
+
+> [!IMPORTANT]  
+> This portfolio has been discontinued and will now automatically redirect to the new one
+
 
 This portfolio is based on RyanFitzgerald's portfolio template, then built upon: [RyanFitzgerald](https://github.com/RyanFitzgerald/).
 
